@@ -1,6 +1,6 @@
 <?php
 
-namespace CodeCommerce;
+namespace codeCommerce;
 
 use Illuminate\Auth\Authenticatable;
 use Illuminate\Database\Eloquent\Model;

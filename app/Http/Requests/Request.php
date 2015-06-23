@@ -1,6 +1,6 @@
 <?php
 
-namespace CodeCommerce\Http\Requests;
+namespace codeCommerce\Http\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
 

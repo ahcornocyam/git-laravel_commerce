@@ -1,6 +1,6 @@
 <?php
 
-namespace CodeCommerce\Exceptions;
+namespace codeCommerce\Exceptions;
 
 use Exception;
 use Symfony\Component\HttpKernel\Exception\HttpException;

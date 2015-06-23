@@ -30,7 +30,7 @@ return [
     ],
 
     'stripe' => [
-        'model'  => CodeCommerce\User::class,
+        'model'  => codeCommerce\User::class,
         'key'    => '',
         'secret' => '',
     ],

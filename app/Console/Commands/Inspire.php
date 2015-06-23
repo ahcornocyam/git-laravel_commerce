@@ -1,6 +1,6 @@
 <?php
 
-namespace CodeCommerce\Console\Commands;
+namespace codeCommerce\Console\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Foundation\Inspiring;

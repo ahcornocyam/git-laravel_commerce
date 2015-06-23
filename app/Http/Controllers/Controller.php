@@ -1,6 +1,6 @@
 <?php
 
-namespace CodeCommerce\Http\Controllers;
+namespace codeCommerce\Http\Controllers;
 
 use Illuminate\Foundation\Bus\DispatchesJobs;
 use Illuminate\Routing\Controller as BaseController;
